@@ -1,3 +1,4 @@
+### picks an item from a user populated list
 import random
 
 itemlist = [] #starts with empty list
