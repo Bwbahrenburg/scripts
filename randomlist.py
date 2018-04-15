@@ -11,4 +11,4 @@ while x != 'q':
         break
     
 #print (itemlist)
-print("\n\nThrough the magical powers of computation we picked...", random.choice(itemlist),"\n\n") #Randomly picks item from list and prints result
+print("\n\n You pick ", random.choice(itemlist),"\n\n") #Randomly picks item from list and prints result
